@@ -1,0 +1,12 @@
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\bin\Debug\net8.0\Messaging.Common.deps.json
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\bin\Debug\net8.0\Messaging.Common.dll
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\bin\Debug\net8.0\Messaging.Common.pdb
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.csproj.AssemblyReference.cache
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.AssemblyInfoInputs.cache
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.AssemblyInfo.cs
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.csproj.CoreCompileInputs.cache
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.dll
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\refint\Messaging.Common.dll
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\Messaging.Common.pdb
+D:\IT\CODE\TH_KienTruc\Lab4_2324802010330_PhamNguyenNhatQuang\Messaging.Common\obj\Debug\net8.0\ref\Messaging.Common.dll
